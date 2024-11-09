@@ -1,23 +1,23 @@
-# PRODIGY_WD_01
-# Responsive Landing Page
+# PRODIGY_WD_02
+# Responsive Navigation Menu
 
-This is a **Responsive Landing Page** created using **HTML**, **CSS**, and **JavaScript**. It is designed to provide a beautiful and user-friendly interface that looks great on both desktop and mobile devices. The landing page includes smooth hover effects, transitions, and a clean layout to capture the visitor's attention.
+This is a **Responsive Navigation Menu** built using **HTML**, **CSS**, and **JavaScript**. The navigation menu adapts to different screen sizes, offering a seamless user experience on both desktop and mobile devices. It includes smooth transitions, a sticky effect, and interactive elements to enhance the overall browsing experience.
 
 ## Features
 
-- **Responsive Design**: Adjusts to different screen sizes and devices.
-- **Smooth Hover Effects**: Buttons and elements have transitions for a better user experience.
-- **Colorful Layout**: Vibrant colors and gradients to enhance visual appeal.
-- **Sticky Navigation Bar**: Easy access to navigation even when scrolling.
-- **Animations**: Text animations and interactive elements to make the page lively.
+- **Responsive Design**: Adjusts automatically based on the screen size, providing an optimized view on mobile and desktop.
+- **Smooth Transitions**: Navigation items and elements have smooth transitions and animations.
+- **Dropdown Menu**: For easy access to sub-items, enhancing navigation.
+- **Sticky Navbar**: Stays fixed at the top for convenient navigation as you scroll.
+- **Hamburger Menu**: Compact menu icon for mobile devices, which expands on click for easy access to navigation items.
 
 ## Technologies Used
 
-- **HTML5**: Markup for structuring the content.
-- **CSS3**: Styling for layout, colors, fonts, and responsive design.
-- **JavaScript**: Adding interactivity and handling user events.
-- **Font Awesome**: For beautiful icons.
-- **Google Fonts**: Custom fonts for typography.
+- **HTML5**: Structuring the navigation menu.
+- **CSS3**: Styling for responsiveness, layout, and animations.
+- **JavaScript**: Adding interactivity, such as toggle effects for the mobile menu.
+- **Font Awesome**: Icon library for the menu items.
+- **Google Fonts**: Custom fonts to enhance typography.
 
 ## Demo
 
@@ -25,7 +25,7 @@ You can check out the live demo [here](your-live-demo-link).
 
 ## Screenshots
 
-![Landing Page Screenshot](your-screenshot-link)
+![Navigation Menu Screenshot](your-screenshot-link)
 
 ## Setup Instructions
 
@@ -33,29 +33,37 @@ You can check out the live demo [here](your-live-demo-link).
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
    ```
-   ## Navigate to the project directory
+2. Navigate to the project directory:
    ```bash
-   cd PRODIGY_WD_01      
+   cd PRODIGY_WD_02
    ```
-   Open the index.html file in your browser.
-   ## Folder Structure
-      . <br>
-├── index.html <br>
-├── style.css <br>
-└── script.js
+3. Open the `index.html` file in your browser.
 
-- index.html: Contains the HTML structure of the landing page.
-- style.css: Contains the CSS for styling and responsiveness.
-- script.js: Contains the JavaScript for any interactive functionality.
+## Folder Structure
+
+    .
+    ├── index.html          # HTML structure
+    ├── style.css           # CSS styling
+    └── script.js           # JavaScript for interactivity
+
+- **index.html**: Contains the HTML structure of the navigation menu.
+- **style.css**: Contains the CSS for styling, animations, and responsiveness.
+- **script.js**: Contains the JavaScript for the toggle functionality and interactivity.
 
 ## Future Improvements
-- Add more animations for better user engagement.
-- Implement additional sections like Services, Testimonials, or Portfolio.
-- Optimize the page for faster loading times.
+
+- Add more customization options for users.
+- Implement smooth scroll effects for better user experience.
+- Include icons or badges for notifications within the menu.
+
 ## Contact
-- If you have any questions or suggestions, feel free to reach out.
 
-- GitHub: github.com/DarpanYb38
-- LinkedIn: https://www.linkedin.com/in/darpan-y-b-jain-880b6a255/
+- For questions or feedback, reach out to me:
+  - **GitHub**: github.com/DarpanYb38
+  - **LinkedIn**: [Darpan Y B Jain](https://www.linkedin.com/in/darpan-y-b-jain-880b6a255/)
 
-Thank you for checking out this project! If you liked it, consider giving it a ⭐ on GitHub!
+Thank you for exploring this project! If you liked it, consider giving it a ⭐ on GitHub!
+
+--- 
+
+Let me know if you'd like any further customization!
