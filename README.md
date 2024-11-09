@@ -1,4 +1,4 @@
-# PRODIGY_WD_02
+# PRODIGY_WD_01
 # Responsive Navigation Menu
 
 This is a **Responsive Navigation Menu** built using **HTML**, **CSS**, and **JavaScript**. The navigation menu adapts to different screen sizes, offering a seamless user experience on both desktop and mobile devices. It includes smooth transitions, a sticky effect, and interactive elements to enhance the overall browsing experience.
@@ -19,13 +19,10 @@ This is a **Responsive Navigation Menu** built using **HTML**, **CSS**, and **Ja
 - **Font Awesome**: Icon library for the menu items.
 - **Google Fonts**: Custom fonts to enhance typography.
 
-## Demo
-
-You can check out the live demo [here](your-live-demo-link).
-
 ## Screenshots
 
-![Navigation Menu Screenshot](your-screenshot-link)
+![Navigation Menu Screenshot](![image](https://github.com/user-attachments/assets/0dd9987f-3b58-4bbf-b3b0-f9a6668f3ccf)
+)
 
 ## Setup Instructions
 
@@ -35,7 +32,7 @@ You can check out the live demo [here](your-live-demo-link).
    ```
 2. Navigate to the project directory:
    ```bash
-   cd PRODIGY_WD_02
+   cd PRODIGY_WD_01
    ```
 3. Open the `index.html` file in your browser.
 
@@ -60,7 +57,7 @@ You can check out the live demo [here](your-live-demo-link).
 
 - For questions or feedback, reach out to me:
   - **GitHub**: github.com/DarpanYb38
-  - **LinkedIn**: [Darpan Y B Jain](https://www.linkedin.com/in/darpan-y-b-jain-880b6a255/)
+  - **LinkedIn**: [Shashank S](https://www.linkedin.com/in/shashank-s-92a0b8230/)
 
 Thank you for exploring this project! If you liked it, consider giving it a ⭐ on GitHub!
 
