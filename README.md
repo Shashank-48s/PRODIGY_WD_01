@@ -60,7 +60,3 @@ This is a **Responsive Navigation Menu** built using **HTML**, **CSS**, and **Ja
   - **LinkedIn**: [Shashank S](https://www.linkedin.com/in/shashank-s-92a0b8230/)
 
 Thank you for exploring this project! If you liked it, consider giving it a ⭐ on GitHub!
-
---- 
-
-Let me know if you'd like any further customization!
