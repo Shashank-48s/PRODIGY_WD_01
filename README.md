@@ -21,7 +21,7 @@ This is a **Responsive Navigation Menu** built using **HTML**, **CSS**, and **Ja
 
 ## Screenshots
 
-![Navigation Menu Screenshot](![image](https://github.com/user-attachments/assets/0dd9987f-3b58-4bbf-b3b0-f9a6668f3ccf)
+![Navigation Menu Screenshot](![Screenshot 2024-11-09 200834](https://github.com/user-attachments/assets/41cedbfd-d3e8-47f3-89b2-a36cd2690e64)
 )
 
 ## Setup Instructions
@@ -56,7 +56,7 @@ This is a **Responsive Navigation Menu** built using **HTML**, **CSS**, and **Ja
 ## Contact
 
 - For questions or feedback, reach out to me:
-  - **GitHub**: github.com/DarpanYb38
+  - **GitHub**: github.com/Shashank-48s
   - **LinkedIn**: [Shashank S](https://www.linkedin.com/in/shashank-s-92a0b8230/)
 
 Thank you for exploring this project! If you liked it, consider giving it a ⭐ on GitHub!
